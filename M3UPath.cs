@@ -7,7 +7,6 @@
         public M3UPath(string path)
         {
             this.Path = path;
-            
         }
     }
 }
